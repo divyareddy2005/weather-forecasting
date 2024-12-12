@@ -20,4 +20,4 @@ Technical Details:
 
 HTML: Structures the web page and its content.
 CSS: Styles the page's layout and visual elements.
-JavaScript: Handles user interactions, API requests, and data processing.
+JavaScript: Handles user interactions, API requests, and data processing

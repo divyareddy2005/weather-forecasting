@@ -1,7 +1,6 @@
 /* Import Google font - Open Sans */ 
 @import 
-url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;
- 700&display=swap'); 
+url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap'); 
 * { 
   margin: 0; 
   padding: 0; 
@@ -42,7 +41,7 @@ h1 {
 .weather-input input:focus { 
   padding: 0 16px; 
  
-76 
+
  
   border: 2px solid #5372F0; 
 } 
@@ -187,7 +186,7 @@ h1 {
   } 
   .weather-input { 
  
-81 
+
  
     width: 100%; 
   } 
